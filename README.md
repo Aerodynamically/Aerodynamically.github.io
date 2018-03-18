@@ -1,1 +1,0 @@
-# Aerodynamically.github.io
