@@ -1,0 +1,46 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aerodynamically.github.io" resolutions="1x" timestamp="1521378328903">
+  <folder name="css">
+    <file name="site_global.css" crc="347579958"/>
+    <file name="master_a-master.css" crc="506192405" ref="illustrations:digital-artworks:graphics:logos-and-app-icons:livery-paints:index:about:youtube-channels"/>
+    <file name="illustrations.css" crc="4144373262" ref="illustrations"/>
+    <file name="digital-artworks.css" crc="4272831296" ref="digital-artworks"/>
+    <file name="graphics.css" crc="4144373262" ref="graphics"/>
+    <file name="logos-and-app-icons.css" crc="4144373262" ref="logos-and-app-icons"/>
+    <file name="livery-paints.css" crc="4144373262" ref="livery-paints"/>
+    <file name="index.css" crc="4090831978" ref="index"/>
+    <file name="about.css" crc="3909435055" ref="about"/>
+    <file name="youtube-channels.css" crc="35016940" ref="youtube-channels"/>
+  </folder>
+  <folder name="assets">
+    <file name="giphy.gif" crc="148023990" seo="true" mt="1518872585000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:digital-artworks:logos-and-app-icons:illustrations:graphics:livery-paints:youtube-channels:about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:digital-artworks:logos-and-app-icons:illustrations:graphics:livery-paints:youtube-channels:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:digital-artworks:logos-and-app-icons:illustrations:graphics:livery-paints:youtube-channels:about"/>
+    <file name="museconfig.js" crc="380897831" ref="index:digital-artworks:logos-and-app-icons:illustrations:graphics:livery-paints:youtube-channels:about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:digital-artworks:logos-and-app-icons:illustrations:graphics:livery-paints:youtube-channels:about"/>
+    <file name="require.js" crc="4157109226" ref="index:digital-artworks:logos-and-app-icons:illustrations:graphics:livery-paints:youtube-channels:about"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4008262205" ref="index"/>
+    <file name="aeroalogotransparent.png" crc="334189742" seo="true" ref="index:digital-artworks:logos-and-app-icons:illustrations:graphics:livery-paints:youtube-channels:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+      <caption webpage="digital-artworks" alt=""/>
+      <caption webpage="logos-and-app-icons" alt=""/>
+      <caption webpage="youtube-channels" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="livery-paints" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3970846883" seo="true" mt="1518946520350" redirect="true"/>
+  <file name="digital-artworks.html" crc="3811155834" seo="true" mt="1518946500728" redirect="true"/>
+  <file name="logos-and-app-icons.html" crc="3888366535" seo="true" mt="1518946364163" redirect="true"/>
+  <file name="illustrations.html" crc="390102419" seo="true" mt="1518946364163" redirect="true"/>
+  <file name="graphics.html" crc="4098349978" seo="true" mt="1518946364163" redirect="true"/>
+  <file name="livery-paints.html" crc="3798882290" seo="true" mt="1518946364163" redirect="true"/>
+  <file name="youtube-channels.html" crc="452649108" seo="true" mt="1518965903391" redirect="true"/>
+  <file name="about.html" crc="3791478488" seo="true" mt="1518965884811" redirect="true"/>
+</manifest>
